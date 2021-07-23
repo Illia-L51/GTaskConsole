@@ -1,0 +1,13 @@
+C:\Users\Illia\source\repos\GTaskConsole\bin\Debug\netcoreapp3.1\GTaskConsole.exe
+C:\Users\Illia\source\repos\GTaskConsole\bin\Debug\netcoreapp3.1\GTaskConsole.deps.json
+C:\Users\Illia\source\repos\GTaskConsole\bin\Debug\netcoreapp3.1\GTaskConsole.runtimeconfig.json
+C:\Users\Illia\source\repos\GTaskConsole\bin\Debug\netcoreapp3.1\GTaskConsole.runtimeconfig.dev.json
+C:\Users\Illia\source\repos\GTaskConsole\bin\Debug\netcoreapp3.1\GTaskConsole.dll
+C:\Users\Illia\source\repos\GTaskConsole\bin\Debug\netcoreapp3.1\GTaskConsole.pdb
+C:\Users\Illia\source\repos\GTaskConsole\obj\Debug\netcoreapp3.1\GTaskConsole.csprojAssemblyReference.cache
+C:\Users\Illia\source\repos\GTaskConsole\obj\Debug\netcoreapp3.1\GTaskConsole.AssemblyInfoInputs.cache
+C:\Users\Illia\source\repos\GTaskConsole\obj\Debug\netcoreapp3.1\GTaskConsole.AssemblyInfo.cs
+C:\Users\Illia\source\repos\GTaskConsole\obj\Debug\netcoreapp3.1\GTaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\Illia\source\repos\GTaskConsole\obj\Debug\netcoreapp3.1\GTaskConsole.dll
+C:\Users\Illia\source\repos\GTaskConsole\obj\Debug\netcoreapp3.1\GTaskConsole.pdb
+C:\Users\Illia\source\repos\GTaskConsole\obj\Debug\netcoreapp3.1\GTaskConsole.genruntimeconfig.cache
